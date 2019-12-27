@@ -1,3 +1,55 @@
-h1 {
-	color:red;
+/*general*/
+
+body, textarea {
+	margin: 0;
+	padding: 0px;
+	font-family: "Montserrat", "Arial", Helvetica, sans-serif;
 }
+
+h1, h2, h3 {
+	color: #333;
+}
+
+p{
+	color: #70747A;
+}
+
+/* navbar */
+
+.navbar-container {
+	width: 100%;
+	height: 80px;
+	background-color: #232A31;
+	padding: 0 2em;
+	position: relative;
+	box-sizing: border-box;
+}
+
+.logo {
+	width: 60px;
+	margin-top: 15px;
+}
+
+nav {
+	display: flex;
+	flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-items {
+	width: 100%;
+	align-items: flex-end;
+	height: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.navbar-items li {
+	text-transform: uppercase;
+	margin-left: 25px;
+	display: inline-block;
+	position: relative;
+
+}
+
