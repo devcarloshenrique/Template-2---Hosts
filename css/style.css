@@ -53,3 +53,23 @@ nav {
 
 }
 
+.navbar-items li a {
+	color: #FFF;
+	text-decoration: none;
+	transition: .5s;
+}
+
+.navbar-items li a:hover { 
+	color:#CCC;
+}
+
+.default-btn {
+	padding: 15px 20px;
+	background-color: #2CC76A;
+	border-radius: 5px;
+	color: #FFF;
+}
+
+.default-btn {
+	background-color: #22BB5F;
+}
