@@ -10,10 +10,10 @@ Este é o meu segundo template construído apenas com **css** e **html**, esse r
 
 #### CSS
 
--	Responsive
--	Migrations 
--	Animation
+-	Responsive (Desktop e Mobile)
+-	Media Query
 - Flex Box
+- Flex Wrap 
 
 ### Autor
 
