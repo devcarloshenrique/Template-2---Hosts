@@ -1,4 +1,4 @@
-# Template 2 - Hdc Hosts
+# Template - Hdc Hosts
 
 ### Objetivo 
 
